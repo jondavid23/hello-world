@@ -1,2 +1,3 @@
 # hello-world
-This is a new project
+So a repository is basically a folder containing some stuff like this one.
+
